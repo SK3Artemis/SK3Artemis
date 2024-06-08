@@ -1,9 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SK3Artemis.SK3Artemis" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+SK_Artemis;+Interesting....;" />
-</h1>
-
 <h3 align="center">Just some random guy....</h3>
 
 <br/>
@@ -29,6 +25,6 @@
 </div>
 
 ```math
-\ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/SK3Artemis/SK3Artemis/blob/main/Test.gif?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 100; background: url('https://github.com/SK3Artemis/SK3Artemis/blob/main/Test.gif?raw=true');]{x0000}$}
 \ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);]{x0000}$}
 ```
