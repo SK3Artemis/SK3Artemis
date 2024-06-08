@@ -10,8 +10,7 @@
 <h2 align="center">Languages</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,github,git,javascript,typescript" /><br>
 </div>
 
 ```math
