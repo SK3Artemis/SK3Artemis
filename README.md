@@ -1,16 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SK3Artemis.SK3Artemis" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+SK_Artemis;+Interesting....;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Just some random guy....</h3>
 
 <br/>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Languages</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" />
@@ -21,7 +21,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sk3artemis/sk3artemis/output/github-contribution-grid-snake.svg" />
   
