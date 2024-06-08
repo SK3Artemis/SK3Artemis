@@ -11,7 +11,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript" /><br>
 </div>
 
 ```math
