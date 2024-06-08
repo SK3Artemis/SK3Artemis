@@ -14,17 +14,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript" /><br>
 </div>
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sk3artemis/sk3artemis/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 ```math
 \ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/SK3Artemis.png');]{x0000}$}
 \ce{$&#x5C;unicode[monospace; pointer-events: none; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.5; background: var(--bgColor-default);]{x0000}$}
