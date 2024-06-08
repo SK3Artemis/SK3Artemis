@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SK3Artemis.SK3Artemis" />
 
-<h3 align="center">Just some random guy....</h3>
+<h3 align="center">Just some random guy.... To any github engineers possibly reading this, please add backgrounds</h3>
 
 <br/>
 
