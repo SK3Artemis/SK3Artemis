@@ -13,4 +13,4 @@
 </div>
 
 ```math 
-\mmlToken{ms}[fontfamily="goombafont; color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/Vendicated/Vendicated/assets/45497981/b20cacf7-6dac-4281-a29d-5d7a8ed31ee0'); opacity: 0.3;"]{}
+\mmlToken{ms}[fontfamily="goombafont; color:red; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 1; background: url('https://github.com/SK3Artemis.png'); opacity: 0.3;"]{}
