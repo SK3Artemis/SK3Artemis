@@ -10,10 +10,4 @@
 \ce{&#x5Cunicode{ms}[fontfamily="monospace; pointer-events: none; z-index: -9; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.9; background: var(--bgColor-default);"]{x0000}$}{}
 ```
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SK3Artemis&theme=tokyonight&show_icons=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SK3Artemis&layout=compact&theme=tokyonight)
-
-![image](https://raw.githubusercontent.com/SK3Artemis/SK3Artemis/refs/heads/main/Test.gif)
-
 RTFM
