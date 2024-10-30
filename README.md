@@ -14,6 +14,6 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SK3Artemis&layout=compact&theme=tokyonight)
 
-![image](.\Test.gif)
+![image](https://raw.githubusercontent.com/SK3Artemis/SK3Artemis/refs/heads/main/Test.gif)
 
 RTFM
