@@ -2,5 +2,5 @@
 <h3 align="center">Interesting....</h3>
 
 ```math 
-&#x5C;&#x63;&#x65{$}{$}
+\ce{$}{$}
 ```
