@@ -7,5 +7,3 @@
 ```math
 \ce{unicode}{macro}{is}{not}{supported}
 ```
-```math
-\ce{;-;}
