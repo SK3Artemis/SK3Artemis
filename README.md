@@ -2,8 +2,5 @@
 <h3 align="center">Interesting....</h3>
 
 ```math 
-&#x5C;&#x63;&#x65{mmlToken{ms}[]{x0000}$}{}
-```
-```math
-\ce{&#x5Cunicode{ms}[]{x0000}$}{}
+&#x5CmmlToken{ms}[]{x0000}{$}
 ```
