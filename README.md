@@ -4,7 +4,7 @@
   <details>
     <summary>I guess....</summary>
     <div>
-      <a href="https://github.com/SK3Artemis">-_-</a>
+      <p>STFU IM WATCHING EXPLORATION SPACE</p>
     </div>
   </details>
 </div>
